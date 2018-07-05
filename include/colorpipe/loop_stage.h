@@ -3,7 +3,6 @@
 #include "pixels.h"
 #include "pipeline.h"
 
-#include <vector>
 #include <memory>
 #include <cstdint>
 
