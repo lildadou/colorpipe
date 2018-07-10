@@ -5,7 +5,7 @@
 
 namespace colorpipe {
   /// Interface for a pipeline stage
-  template<typename T>
+  template<class T>
   class PipelineStage {
   public:
     virtual ~PipelineStage() {}
