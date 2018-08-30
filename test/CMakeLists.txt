@@ -30,7 +30,7 @@ add_executable(Test
         src/pixels_test.cc
         src/vector_pipeline_test.cc
         src/loop_pipeline_test.cc
-        )
+        src/scale_stage_test.cc)
 target_include_directories(Test
         PRIVATE
         include
